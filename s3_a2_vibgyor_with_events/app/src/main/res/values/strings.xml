@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">S3A2VibgyorWithEvents</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="on_tap_heading">Selected color: </string>
+    <string name="on_user_action">User Action</string>
+
+    <string name="violetBand">Violet</string>
+    <string name="indigoBand">Indigo</string>
+    <string name="blueBand">Blue</string>
+    <string name="greenBand">Green</string>
+    <string name="yellowBand">Yellow</string>
+    <string name="orangeBand">Orange</string>
+    <string name="redBand">Red</string>
+</resources>

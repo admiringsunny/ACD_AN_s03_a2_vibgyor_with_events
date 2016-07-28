@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="7">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/redBand"
+        android:id="@+id/red"
+        android:background="@color/redBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/orangeBand"
+        android:id="@+id/orangeBand"
+        android:background="@color/orangeBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/yellowBand"
+        android:id="@+id/yellow"
+        android:background="@color/yellowBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/greenBand"
+        android:id="@+id/green"
+        android:background="@color/greenBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/blueBand"
+        android:id="@+id/blue"
+        android:background="@color/blueBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/indigoBand"
+        android:id="@+id/indigo"
+        android:background="@color/indigoBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="1"
+        android:text="@string/violetBand"
+        android:id="@+id/violet"
+        android:background="@color/violetBand"
+        android:gravity="center"
+        android:onClick="clickColorBand"/>
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

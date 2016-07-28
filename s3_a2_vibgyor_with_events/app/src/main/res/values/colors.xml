@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="violetBand">#ff00ff</color>
+    <color name="indigoBand">#9900ff</color>
+    <color name="blueBand">#0000ff</color>
+    <color name="greenBand">#00ff00</color>
+    <color name="yellowBand">#e6f900</color>
+    <color name="orangeBand">#fa7d00</color>
+    <color name="redBand">#ff0000</color>
+</resources>
